@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('test', async ({ page }) => {
+test('Codegen test case' , {tag: ['@PlaywrightWithJenkins']}, async ({ page }) => {
   await page.goto('https://www.youtube.com/');
   await page.getByRole('button', { name: 'Accept the use of cookies and' }).click();
   await page.getByRole('combobox', { name: 'Search' }).click();

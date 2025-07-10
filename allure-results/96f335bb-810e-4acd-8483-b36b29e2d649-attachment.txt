@@ -1,0 +1,4 @@
+{
+  Skill1: 'JavaScript by testars talk',
+  Skill2: 'API Testing by testars talk'
+}

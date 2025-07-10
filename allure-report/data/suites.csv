@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2305","Handling popups","chromium","Sat Jul 05 18:10:49 EEST 2025","passed","Sat Jul 05 18:10:52 EEST 2025","","Chapter04\04_TestReports_Test.spec.ts","",""
+"","1500","Handling prompt popups","chromium","Sat Jul 05 18:10:52 EEST 2025","passed","Sat Jul 05 18:10:53 EEST 2025","","Chapter04\04_TestReports_Test.spec.ts","",""
+"","2170","Handling Alert PopUps","chromium","Sat Jul 05 18:10:49 EEST 2025","passed","Sat Jul 05 18:10:52 EEST 2025","","Chapter04\04_TestReports_Test.spec.ts","",""

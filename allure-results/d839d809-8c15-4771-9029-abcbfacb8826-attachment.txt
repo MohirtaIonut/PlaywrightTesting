@@ -1,0 +1,4 @@
+{
+  Skill1: 'Playwright by testers talk',
+  Skill2: 'Cypress by testers talk'
+}

@@ -1,0 +1,50 @@
+# Page snapshot
+
+```yaml
+- navigation:
+  - link "Despre":
+    - /url: https://about.google/?fg=1&utm_source=google-RO&utm_medium=referral&utm_campaign=hp-header
+  - link "Google Store":
+    - /url: https://store.google.com/RO?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=ro-RO
+  - link "Gmail":
+    - /url: https://mail.google.com/mail/&ogbl
+  - link "Caută imagini":
+    - /url: https://www.google.com/imghp?hl=ro&ogbl
+    - text: Imagini
+  - button "Aplicații Google":
+    - img
+  - link "Conectați-vă":
+    - /url: https://accounts.google.com/ServiceLogin?hl=ro&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e
+- img
+- search:
+  - img
+  - combobox "Caută"
+  - button "Instrumente pentru introducere de text":
+    - img
+  - button "Fă o căutare vocală":
+    - img
+  - button "Căutare după imagine":
+    - img
+  - button "Căutare Google"
+  - button "Mă simt norocos"
+- text: "Google oferit în:"
+- link "magyar":
+  - /url: https://www.google.com/setprefs?sig=0_IhSc2hTbzqCtB0IBTdc9sfpmFkI%3D&hl=hu&source=homepage&sa=X&ved=0ahUKEwjut5HPw62OAxWq-AIHHcuRPMoQ2ZgBCBc
+- link "Deutsch":
+  - /url: https://www.google.com/setprefs?sig=0_IhSc2hTbzqCtB0IBTdc9sfpmFkI%3D&hl=de&source=homepage&sa=X&ved=0ahUKEwjut5HPw62OAxWq-AIHHcuRPMoQ2ZgBCBg
+- link "English":
+  - /url: https://www.google.com/setprefs?sig=0_IhSc2hTbzqCtB0IBTdc9sfpmFkI%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjut5HPw62OAxWq-AIHHcuRPMoQ2ZgBCBk
+- contentinfo:
+  - text: România
+  - link "Publicitate":
+    - /url: https://www.google.com/intl/ro_ro/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+  - link "Companii":
+    - /url: https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+  - link "Cum funcționează Căutarea":
+    - /url: https://google.com/search/howsearchworks/?fg=1
+  - link "Confidențialitate":
+    - /url: https://policies.google.com/privacy?hl=ro&fg=1
+  - link "Termeni":
+    - /url: https://policies.google.com/terms?hl=ro&fg=1
+  - button "Setări"
+```

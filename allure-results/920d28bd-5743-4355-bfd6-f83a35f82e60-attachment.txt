@@ -1,0 +1,2 @@
+Valoarea extrasă este: Admin
+Parola extrasă este: admin123
